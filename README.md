@@ -1,6 +1,13 @@
 # ThermalPulse
 
 **Lightweight, open-source WMI thermal, fan, and power control center for Windows laptops (tested and verified on Acer Nitro V15 `ANV15-51`).**
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/1446c915-b9a5-4196-a938-1b8439fa6250" />
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/005035b5-f3ef-4f2d-bbc0-d44ed9f23887" />
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/7f2c1f6a-d20a-4b74-a480-15e10fba9377" />
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/fb02322c-5d5d-4509-b7de-80ecea9aa22e" />
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/898dd8cf-25af-446b-8f87-98a96f784718" />
+<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/95678292-57a3-4b23-aa53-c5a13d8320fb" />
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/f99c2ab0-d910-4794-a047-e4abc1a50bab" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-ef4444.svg)](LICENSE)
 [![Platform: Windows 10/11 x64](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-0ea5e9.svg)](#installation)
