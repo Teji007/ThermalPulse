@@ -1,0 +1,51 @@
+========================================================================
+THERMALPULSE - LEGAL & HARDWARE SAFETY DISCLAIMER
+========================================================================
+
+Developer: Tejinder Pal Singh (Open Source - MIT License)
+Project:   https://github.com/Teji007/ThermalPulse
+
+1. NON-AFFILIATION & TRADEMARK NOTICE
+------------------------------------------------------------------------
+ThermalPulse is an independent, community-developed open-source utility.
+It is NOT affiliated with, endorsed by, sponsored by, or officially
+connected to Acer Inc., NVIDIA Corporation, Advanced Micro Devices
+(AMD), Intel Corporation, or Microsoft Corporation.
+
+"Acer", "Nitro", "NitroSense", "GeForce", "RTX", "Radeon", "Ryzen",
+"Intel", "Core", and "Windows" are registered trademarks of their
+respective owners and are used solely to indicate hardware and software
+compatibility.
+
+2. HARDWARE, BATTERY & THERMAL SAFETY
+------------------------------------------------------------------------
+ThermalPulse interacts directly with Windows power plans, standard GPU
+management libraries (NVML / ADL2), and firmware-exposed WMI thermal
+and fan interfaces. By installing and using this software, you
+acknowledge that:
+
+- High power draw on battery accelerates Li-Ion battery wear and can
+  cause voltage-sag shutdowns at low charge levels. Keep the built-in
+  Battery Safety Cutoff (20% or higher; 30% recommended) enabled.
+- Custom or manual fan curves override factory fan behavior while the
+  app is running. Keep the Thermal Fail-Safe enabled at all times.
+- On battery power, discrete GPUs remain subject to firmware-enforced
+  VBIOS DC wattage limits.
+- Exiting ThermalPulse cleanly restores fan control to Auto and unlocks
+  any active software GPU clock cap.
+
+3. NO WARRANTY & LIMITATION OF LIABILITY
+------------------------------------------------------------------------
+This software is provided "AS IS", without warranty of any kind,
+express or implied, under the terms of the MIT License. You assume full
+responsibility for all power, clock, and thermal settings applied to
+your hardware.
+
+While installing third-party utilities is legal, hardware manufacturers
+may decline warranty claims if physical damage is directly caused by
+manual power or thermal overrides. The developer shall not be held
+liable for any hardware damage, battery degradation, data loss, or
+other damages arising from the use or misuse of this software.
+
+Click "Next" only if you understand and accept these terms.
+========================================================================

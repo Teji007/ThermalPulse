@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Build Outputs (upload installers to GitHub Releases instead)
+build/
+dist/
+release/
+Output/
+*.egg-info/
+
+# Local Runtime Data, Backups & Helper Scripts
+config.json
+telemetry.db
+*.csv
+*.log
+*.bak
+portable.flag
+setup_and_build.ps1
+prepare_github.ps1
+add_help_tab.ps1
+harden_app.ps1
+nitro_dc_unlock*.py
+
+# IDEs & OS Junk
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
